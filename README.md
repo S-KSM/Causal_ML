@@ -8,4 +8,6 @@ My Reading list in Causal ML:
 - [ ] [Machine learning in policy evaluation: new tools for causal inference](https://arxiv.org/pdf/1903.00402.pdf)
 - [ ] [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf)
 - [ ] [Uplift Modeling](http://stochasticsolutions.com/pdf/sig-based-up-trees.pdf)
+- [ ] [uplift modeling multiple treatments](https://arxiv.org/pdf/1705.08492.pdf)
+
 
